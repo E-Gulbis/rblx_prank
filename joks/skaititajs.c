@@ -3,7 +3,7 @@
 int main(){
     FILE *yep;
     char buff[4];
-    yep = fopen("C:\\Users\\SKOLENS\\Documents\\Programmesana\\Ernests Gulbis 10i\\joks\\counter.txt", "r");
+    yep = fopen("", "r"); //Enter the full file name here!
     if(yep == NULL){
         printf("uh oh.");
     }
