@@ -1,9 +1,0 @@
-Es esmu Ernests Gulbis no 10i klases. Es izdomāju paspēlēties ar .bat failiem. Šis .bat fails satur komandas:
-"@echo off (Slēpj faila vietu datorā, kad printē tekstu)
-start "" https://www.youtube.com/watch?v=dQw4w9WgXcQ (Atver youtube linku Rika Astlija dziesmai  "Never Gonna Give You Up")
-echo trololo (Tikai teksts, kas parādās pēc .bat faila klikšķināšanas)
-pause >nul (Nodrošina, ka logs nepazūd uzreiz pēc komandu ieslēgšanas)
-"
-Es sapratīšu, ja Jūs izdzēsīsiet šo mapi.
-
-PS: "counter" fails tiek lietots, lai skaitītu, cik lietotāji uzķērās.
